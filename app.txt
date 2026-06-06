@@ -1,2 +1,4 @@
 Feature A
 Feature B
+Feature B
+Feature C test:wq
